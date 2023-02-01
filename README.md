@@ -1,7 +1,4 @@
 <h1 align="center">Hey there 👋, nice to meet you!</h1>
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brenozuko&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
 <h3 align="center">A Software Engineer proficient with Javascript/Typescript, React, Python, Django and currently pursuing a master's degree in Data Mining.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenozuko&label=Profile%20views&color=0e75b6&style=flat" alt="brenozuko" /> </p>
