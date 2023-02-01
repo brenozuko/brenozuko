@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [2U Smart Vending Machines](https://2u.app.br/)
 
-- 💬 Ask me about **React, Typescript, Javascript, Sass, Python**
+- 💬 Ask me about **React, React Native, Next, Typescript, Javascript, Sass, Python, Django**
 
 - 📫 How to reach me **brenozukotech@gmail.com**
 
