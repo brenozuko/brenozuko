@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer proficient with Javascript/Typescript, React, Next, Python, Django and currently pursuing a master's degree in Data Mining.</h3>
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brenozuko&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brenozuko&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
 
