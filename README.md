@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, nice to meet you!</h1>
+<h1 align="center">Hey there 👋, nice to meet you!</h1>
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brenozuko&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
