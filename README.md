@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, nice to meet you!</h1>
-<h3 align="center">A Software Engineer proficient with Javascript/Typescript, React, Next, Python, Django and currently pursuing a master's degree in Computer Science focused on Artificial Intelligence and Data Mining.</h3>
+<h3 align="center">A Software Engineer proficient with Javascript/Typescript, React, Next, Python, Django and currently pursuing a master's degree in Computer Science focused on Artificial Intelligence and Natural Language Processing.</h3>
 
 <a href="https://profile.codersrank.io/user/brenozuko" target="_blank">
 <img
