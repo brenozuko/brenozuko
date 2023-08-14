@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, nice to meet you!</h1>
-<h3 align="center">I'm a Software Engineer proficient with Javascript/Typescript, React, React Native, Next, Python, Django and currently pursuing a master's degree in Computer Science!</h3>
+<h3 align="center">I'm a Software Engineer proficient with Javascript/Typescript, React, React Native, Next and Ruby on Rails and currently pursuing a master's degree in Computer Science!</h3>
 
 <a href="https://profile.codersrank.io/user/brenozuko" target="_blank">
 <img
