@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [SouTag](https://soutag.com.br/)
 
-- 💬 Ask me about **React, React Native, Next, Typescript, Javascript, Sass, Python, Django**
+- 💬 Ask me about **React, React Native, Next, Typescript, Javascript, Ruby, Ruby on Rails**
 
 - 📫 How to reach me **brenozukotech@gmail.com**
 
