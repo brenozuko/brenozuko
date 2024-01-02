@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenozuko&label=Profile%20views&color=0e75b6&style=flat" alt="brenozuko" /> </p>
 
-- 🔭 I’m currently working on [SouTag](https://soutag.com.br/)
+- 🔭 I’m currently working on [Jebbit](https://www.jebbit.com/)
 
 - 💬 Ask me about **React, React Native, Next, Typescript, Javascript, Ruby, Ruby on Rails**
 
