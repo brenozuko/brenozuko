@@ -2,12 +2,6 @@
 <h3 align="center">I'm a Software Engineer proficient with Javascript/Typescript, React, React Native, Next and Ruby on
     Rails and currently pursuing a master's degree in Computer Science!</h3>
 
-<a href="https://profile.codersrank.io/user/brenozuko" target="_blank">
-    <img
-        src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brenozuko&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
-</a>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenozuko&label=Profile%20views&color=0e75b6&style=flat"
         alt="brenozuko" /> </p>
 
