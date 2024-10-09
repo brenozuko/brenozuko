@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **brenozukotech@gmail.com**
 
-- Check out my [portfolio](https://www.brenozuko.tech/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/breno-zukowski" target="blank"><img align="center"
