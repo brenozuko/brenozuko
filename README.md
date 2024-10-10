@@ -1,14 +1,14 @@
 <h1 align="center">Hey there 👋, nice to meet you!</h1>
 <h3 align="center">I'm a Software Engineer and I'm currently really invested in learning AI/Data Science!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brenozuko&label=Profile%20views&color=0e75b6&style=flat"
-        alt="brenozuko" /> </p>
 
 - 🔭 I’m currently working at [Jebbit](https://www.jebbit.com/)
 
 - 💬 Ask me about **React, React Native, Next, Typescript, Javascript, Ruby, Ruby on Rails**
 
 - 📫 How to reach me **brenozukotech@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
