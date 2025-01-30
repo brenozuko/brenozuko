@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Software Engineer and I'm currently really invested in learning AI/Data Science!</h3>
 
 
-- 🔭 I’m currently working at [Jebbit](https://www.jebbit.com/)
+- 🔭 I’m currently working at [Curotec](https://www.curotec.com/)
 
 - 💬 Ask me about **React, React Native, Next, Typescript, Javascript, Ruby, Ruby on Rails**
 
